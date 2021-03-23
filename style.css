@@ -675,6 +675,7 @@ footer .container {
     header {
         background-image: none;
         background-color: #D2DBDF;
+        background-size: cover;
     }
 
 
@@ -687,7 +688,7 @@ footer .container {
 
     .header-info-box {
         padding-left: 30px;
-        width: 100%;
+        width: 90%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -713,7 +714,7 @@ footer .container {
     }
 
     .layout-info-box {
-        width: 100%;
+        width: 90%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -751,7 +752,7 @@ footer .container {
 
 
     .user-info {
-        width: 100%;
+        width: 90%;
         padding-left: 30px;
         padding-bottom: 30px;
         display: flex;
@@ -776,6 +777,7 @@ footer .container {
 
     .feature-item {
         width: 350px;
+        margin: 10px 0px;
     }
 
     .second-feature-box {
@@ -799,6 +801,7 @@ footer .container {
     .content-section {
         background-image: none;
         background-color: #06B0D6;
+        background-size: cover;
     }
 
     .reviews {
@@ -900,7 +903,7 @@ footer .container {
 
 @media (max-width:620px) {
     .container {
-        width: 90%;
+        width: 500px;
     }
 
     .first-review, .second-review {
@@ -922,3 +925,25 @@ footer .container {
         width: 90%;
     }
 }
+
+
+@media (max-width:520px) {
+    .container {
+        width: 400px;
+    }
+
+}
+
+
+    @media (max-width:420px) {
+        .container {
+            width: 90%;
+        }
+
+     
+
+        .info-box-link {
+            width: 50%;
+        }
+
+    }
