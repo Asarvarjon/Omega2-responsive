@@ -940,6 +940,46 @@ footer .container {
             width: 90%;
         }
 
+        .header-info-box {
+            width: 100%;
+        }
+
+        .header-info-title {
+            text-align: center;
+            font-size: 32px;
+            line-height: 45px;
+        }
+
+        .user-info {
+            padding-top: 80px;
+        }
+
+        .header-info-text, .info-box-text, .users-text  {
+            text-align: center;
+            font-size: 19px;
+        }
+
+        .layout-info-box, .user-info {
+            width: 100%;
+        }
+
+        .info-box-title {
+            text-align: center;
+            font-size: 32px;
+            line-height: 45px;
+        }
+
+        .features-title {
+            font-size: 32px;
+            text-align: center;
+            line-height: 45px;
+        }
+
+        .users-title {
+            font-size: 32px;
+            text-align: center;
+            line-height: 45px;
+        }
      
 
         .info-box-link {
