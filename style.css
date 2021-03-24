@@ -946,4 +946,45 @@ footer .container {
             width: 50%;
         }
 
+       .form-input {
+           width: 20px;
+       }
+
+       .header-form {
+           width: 355px;
+       }
+
+       .nav-list{
+           margin-left: 20px;
+       }
+        
+       .info-box-link {
+           width: 70%;
+       }
+
+
+       .first-review, .second-review{
+           width: 330px;
+           padding: 10px
+       }
+
+       .last-section-title, .users-title, .review-section-title {
+           font-size: 36px;
+       }
+
+       .last-section-text, .users-text, .review-section-text {
+           font-size: 19px;
+       }
+
+       .last-form-button, .last-form-label{
+           width: 300px;
+       }
+
+       .label-input {
+           width: 100px;
+       }
+
+       .mail-icon {
+           margin-right: 40px;
+       }
     }
