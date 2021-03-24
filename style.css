@@ -987,4 +987,16 @@ footer .container {
        .mail-icon {
            margin-right: 40px;
        }
+
+       footer .container {
+           padding-top: 40px;
+       }
+
+       .footer-headings {
+           width: 70%;
+           display: flex;
+           flex-direction: column;
+           align-items: center;
+           
+       }
     }
